@@ -1,9 +1,9 @@
 # Foundations of Web Development
 01. In your own words, why do we use Git?
-    > | ANSWER HERE |
+    > Version Control/Cloud saves, Losing Code Sucks
 
 02. In the terminal, what is the command `mkdir` used for?
-    > | ANSWER HERE |
+    > make directory
 
 03. What is a ***pseudo-class*** and what are some of the most common ones you think you will use?
     > | ANSWER HERE |
@@ -12,7 +12,7 @@
     > | ANSWER HERE |
 
 05. What problems do you think you could run into if you over-utilized the `!important` feature?
-    > | ANSWER HERE |
+    > Two attribute definitions that conflict causing weird error behavior
 
 06. What are the three components that makeup a `CSS` rule? <br> Example:
 
