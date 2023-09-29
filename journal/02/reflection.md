@@ -2,7 +2,4 @@
 This reflection is open-format, so it can be whatever you like. Take this opportunity to write a bit on some of the things you have learned this week or some of the things that you are still struggling with; identify some challenges you had at the beginning of the week that you were able to overcome, or just generally reflect on how you are feeling at this point in the course.
 
 ## Prompts
-- What went well this week?
-- What did you learn that was a shock or surprise?
-- What are you struggling with?
-- What would you count as a victory?
+    This week was intro to javascript week and I already know a lot about javascript which seems fantastic but it really wasn't. All of the morning lectures were really boring and I just started doing the evening challenge in the morning instead and the biggest problem arising in the partner challenge. I got laura and while this isnt a bad thing she didn't know nearly as much as i did, and helping her mad me feel like i was positioning her to a spot where she felt useless and dumb when no one is doing anything wrong at all, its just a frustrating spot to be that makes me feel like a terrible person, but alas. Another week down, and I'm hopeful next week is more difficult.
