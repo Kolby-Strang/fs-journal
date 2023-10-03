@@ -17,24 +17,24 @@
 
 05. What the difference between a `class` and an instance of a `class`?
   
-  > | ANSWER HERE |
+  > a class is a type of object that can be created and lays the groundwork for how that object will operate, and an instance of that class is an actual implementation of the class
 
 06. What is a computed Property?
   
-  > | ANSWER HERE |
+  > A property that has to be computed like a getter method
 
 07. What is the purpose of the `MVC` pattern?
   
-  > | ANSWER HERE |
+  > To keep data the user should not have access to behind multiple layers of controller and service files so that nothing can access sensitive info but the program you write. Also to make code more readable and organized
 
 08. What is the job of the `Controller` in the `MVC` Pattern?
   
-  > | ANSWER HERE |
+  > The controller communicates user input to services and also updates the view
 
 09. What is the job of the `Service` in `MVC`?
   
-  > | ANSWER HERE |
+  > the service changes data in the model
 
 10. What is the job of the `Model` in `MVC`?
   
-  > | ANSWER HERE |
+  > To hold any data the program will use
