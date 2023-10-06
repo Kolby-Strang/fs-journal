@@ -3,4 +3,4 @@
 * **[Repo](https://github.com/Kolby-Strang/Game-Night)**
 * **[Repo](https://github.com/Kolby-Strang/Vendr)**
 * **[Repo](https://github.com/Kolby-Strang/Gregslist)**
-* **[Repo](https://github.com/Kolby-Strang/<ASSIGNMENT_REPO>)**
+* **[Repo](https://github.com/Kolby-Strang/Jungle-Jumble)**
