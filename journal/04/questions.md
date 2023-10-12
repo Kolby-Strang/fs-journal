@@ -13,15 +13,15 @@
 
 04. What is a callback / higher order function?
 
-  > | ANSWER HERE |
+  > a higher order function is a function that takes another function within its parameters
 
 05. What is a `promise`? How do you capture an error from a `promise`?
 
-  > | ANSWER HERE |
+  > A promise is a returned value that is promised to happen at some point, to properly capture these you need to await the function that returns the promise so that the code doesn't leave the network call behind
 
 06. Name three processes used to make requests over `HTTP`?
 
-  > | ANSWER HERE |
+  > get post put delete
 
 07. What does the `API` acronym stand for?
 
