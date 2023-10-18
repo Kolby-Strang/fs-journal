@@ -37,4 +37,4 @@
 
 10. What is a ***virtual property***?
 
-  > A virtual property are restrictions on what data may enter a model by having a virtual layout of what data should look like
+  > A virtual property is a property that is retrieved from other collections within the db, useful for pulling information from an property that only contains an id
