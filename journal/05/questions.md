@@ -9,7 +9,7 @@
 
 03. What does `ORM` stand for? Which `ORM` do we use when interacting with MongoDB
 
-  > | ANSWER HERE |
+  > An ORM is a program that translates between a database on BSON/some other encoding type to javascript literals so that a program can communicate with a database of stored data
 
 04. Which two `HTTP` request types include a body?
 
@@ -21,7 +21,7 @@
 
 06. What are the three types of data relationships? Provide an example of each.
 
-  > one to one, where one strip of data is tied to one other strip of data and that is all, an example is an address where a street and city have a one to one relationship. One to many, where one strip of data is associated with many strips of data like comments on a youtube video. Many to many, where either strip of data could apply to many other things, like authors and books, many authors can write one book and many books may be written by one author
+  > one to one, where one strip of data is tied to one other strip of data and that is all, an example is an admin class that is only tie to one profile is a one to one relationship. One to many, where one strip of data is associated with many strips of data like comments on a youtube video. Many to many, where either strip of data could apply to many other things, like authors and books, many authors can write one book and many books may be written by one author
 
 07. What is middleware?
 
