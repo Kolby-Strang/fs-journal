@@ -5,11 +5,11 @@
 
 02. What is the difference between a `class` and an `interface`?
 
-  > | ANSWER HERE |
+  > The interface is a blueprint for the class but does not actually instantiate it
 
 03. What is the method that returns an instance of a class, yet it has no return type?
 
-  > | ANSWER HERE |
+  > he constructor does this
 
 05. In the Car example what is the access modifier of the `Start()` method?
 
@@ -33,7 +33,7 @@
 
 07. In the Car example what is `abstract` preventing?
 
-  > | ANSWER HERE |
+  > From another class instantiating the object
 
 08. In a SQL table, what is the difference between information in a row and information in a column?
 
@@ -45,4 +45,4 @@
 
 10. In SQL how can you query more than a single table? Provide an example.
 
-  > | ANSWER HERE |
+  > sing join statements
