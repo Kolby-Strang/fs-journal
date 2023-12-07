@@ -47,4 +47,4 @@
 
   ```
 
-  > SELECT doc.*, patDoc.*, pat FROM doctors doc JOIN patient_doctors patDoc ON patDoc.doctorId = doc.id JOIN patients pat ON pat.id = patDoc.patientId;
+  > SELECT pat.*, patDoc.*, doc FROM patients pat JOIN patient_doctors patDoc ON patDoc.doctorId = doc.id JOIN doctors doc ON doc.id = patDoc.doctorId;
